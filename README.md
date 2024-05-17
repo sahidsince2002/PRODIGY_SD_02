@@ -6,12 +6,12 @@ In the Guessing Game, a random number is generated within a specified range, and
 Features
 CLI Version:
 
-Simple text-based interface.
-Prompt for user input and provide feedback on each guess.
-Loop until the correct number is guessed.
+1. Simple text-based interface.
+2. Prompt for user input and provide feedback on each guess.
+3. Loop until the correct number is guessed.
 
 GUI Version:
 
-User-friendly graphical interface built with Tkinter.
-Input field for guesses and feedback displayed on the screen.
-Reset button to start a new game.
+1. User-friendly graphical interface built with Tkinter.
+2. Input field for guesses and feedback displayed on the screen.
+3. Reset button to start a new game.
